@@ -1,4 +1,4 @@
-div{border:solid 3px rose;
+div{border:solid 3px; color:rose;
   padding:5px;
   margin:5px;
   background-color: #00f;}
