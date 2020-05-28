@@ -1,7 +1,7 @@
-.fh2{background-color: grey;  margin:1%;}
+.fh2{font-family: courier;}
+{background-color: grey;  margin:1%;}
 table,tr,td{border:solid 3px blue;}
   body{margin:0px;}
-.fg1{font-family: courier;}
 div{
   padding:0px;
   margin:0px;}
