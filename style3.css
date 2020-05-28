@@ -1,1 +1,13 @@
+.fh2{background-color: grey;  margin:1%;}
+table,tr,td{border:solid 3px blue;}
+  body{margin:0px;}
 .fg1{font-family: Georgia;}
+div{
+  padding:0px;
+  margin:0px;}
+#b1{background-color: #990;}
+#b2{background-color: #009;}
+#b3{width:45%;float:left;}
+#b4{width:35%;float:left;}
+#b5{width:14%;float:left;}
+#b6{background-color: #009;clear:both;}
