@@ -1,9 +1,9 @@
-.fh2{background-color: grey;}
+.fh2{background-color: grey;  margin:1%;}
 table,tr,td{border:solid 3px blue;}
-  body{margin:5px;}
+  body{margin:0px;}
 div{
-  padding:5px;
-  margin:0.5%;}
+  padding:0px;
+  margin:0px;}
 #b1{background-color: #990;}
 #b2{background-color: #009;}
 #b3{width:45%;float:left;}
