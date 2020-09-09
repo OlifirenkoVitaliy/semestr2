@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<head>
+<title>lab1</title>
+<link rel="stylesheet" href="8.css">
+<script src="script8.js">
+</script>
+</head>
+<body onload="f()">
+<div id="MyDiv">
+ 
+</div>
+</body>
+</html>
